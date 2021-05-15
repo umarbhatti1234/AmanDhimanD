@@ -1,4 +1,4 @@
-### Hi there 👋, I'm [Aman](https://github.com/Aman-dhiman2) 👨‍💻
+### Hi there 👋, I'm [Aman](https://github.com/AmanDhimanD) 👨‍💻
 
 <br/>
 
@@ -11,7 +11,7 @@
 </a>
 
 <a href="https://twitter.com/RapperAmanD">
-  <img align="left" alt="Aman Ansari | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="left" alt="Aman Dhiman| Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 
 <a href="mailto:dhiman.1999.aman@gmail.com">
@@ -24,26 +24,19 @@
 <br/>
 
 <p>
-A Skilled FullStack JavaScript Developer 🚀 from India. Always working on some project or learning something new!
-<br/>
-Stacks I have worked with : MERN , React+Firebase , Meteor+React , Next+React.
-<br/>  
-Things I am currently experimenting with : jest , enzyme , typescript, ...
-<br/>
+A Skilled Software Engineer 🚀 from India. Always working on some project or learning something new!
+<br/> 
 Want to become a full-time Freelancer 💸 and an Open Source Contributor ❤️.
 </p>
-
-
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
+<img align="right" alt="GIF" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
   
 ### ✨ Quick Facts
 
-- 👨🏽‍💻 I’m currently working as a freelancer.
+- 👨🏽‍💻 I’m currently working as a freelancer SDE.
 - 🌱 I’m currently learning Data Science.
-<!--- 🤔 I’m looking for help for my future MERN projects.-->
 - 💬 Ask me about anything related to Data Science,Programming.(After googling it 😜😌)
-<!--- ⚡️ Fun-Fact: I sleep at 6am 🙃. -->
-- 🎿 Hobbies other than coding : Reading blogs or about Fashion , Playing Chess , Playing games.
+  ⚡️ Fun-Fact: I sleep at 6am 🙃.
+- 🎿 Hobbies other than coding : Reading blogs or about Fashion ,Listen Podcasts, Playing games.
 - 📫 How to reach me: dhiman.1999.aman@gmail.com
 - 📝 [Resume](https://drive.google.com/drive/folders/1VxDtIflu5nThxTtm8COG_eh_1FkjF3Jj)
 
