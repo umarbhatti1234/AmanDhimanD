@@ -28,7 +28,7 @@ A Skilled Software Engineer 🚀 from India. Always working on some project or l
 <br/> 
 Want to become a full-time Freelancer 💸 and an Open Source Contributor ❤️.
 </p>
-<img align="right" alt="GIF" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
+<img align="right" alt="GIF" src="https://tenor.com/view/programmer-programming-computer-typing-gif-7603564" />
   
 ### ✨ Quick Facts
 
