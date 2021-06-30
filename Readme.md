@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm [Aman](https://github.com/AmanDhimanD) 👨‍💻
 <p align="center">
-  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="100"/>
+  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="130"/>
 </p>
 <hr>
 <br/>
