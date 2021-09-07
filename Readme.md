@@ -40,7 +40,7 @@ Want to become a full-time Freelancer 💸 and an Open Source Contributor ❤️
   ⚡️ Fun-Fact: I sleep at 6am 🙃.
 - 🎿 Hobbies other than coding : Reading blogs or about Fashion ,Listen Podcasts, Playing games.
 - 📫 How to reach me: dhiman.1999.aman@gmail.com
-- 📝 [Resume](https://drive.google.com/drive/u/0/folders/1e41u9C5C_F8Q-z5v233TVNGVO1AtlyS_)
+- 📝 [Resume](https://drive.google.com/file/d/1liISjBUagh6MxJkBH_1ha56_hMyvGgFQ/view?usp=sharing)
 
 ### 🛠️ Languages and Tools:
 
