@@ -44,7 +44,9 @@ Want to become a full-time Freelancer 💸 and an Open Source Contributor ❤️
 - 📫 How to reach me: dhiman.1999.aman@gmail.com
 - 📝 [Resume](https://drive.google.com/file/d/1liISjBUagh6MxJkBH_1ha56_hMyvGgFQ/view?usp=sharing)
 
-[![Aman's github activity graph](https://activity-graph.herokuapp.com/graph?username=AmanDhimanD)](https://github.com/AmanDhimanD/github-readme-activity-graph)
+<!-- [![Aman's github activity graph](https://activity-graph.herokuapp.com/graph?username=AmanDhimanD)](https://github.com/AmanDhimanD/github-readme-activity-graph) -->
+[![Aman's github activity graph](https://activity-graph.herokuapp.com/graph?username=AmanDhimanD&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 
 ### 🛠️ Languages and Tools:
