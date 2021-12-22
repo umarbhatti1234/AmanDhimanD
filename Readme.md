@@ -7,7 +7,7 @@
 <!-- ![Profile View](https://gpvc.arturio.dev/AmanDhimanD) -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AmanDhimanD" alt="AmanDhimanD" /> </p>
 <a href="https://www.linkedin.com/in/aman-dhiman-9336b91ba">
-  <img align="left" alt="Aman's Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Aman's Linkedin" width="92px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
 <a href="_blank">
