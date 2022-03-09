@@ -45,7 +45,7 @@ Want to become a full-time Freelancer 💸 and an Open Source Contributor ❤️
 - 📝 [Resume](https://drive.google.com/file/d/1liISjBUagh6MxJkBH_1ha56_hMyvGgFQ/view?usp=sharing)
 
 <!-- [![Aman's github activity graph](https://activity-graph.herokuapp.com/graph?username=AmanDhimanD)](https://github.com/AmanDhimanD/github-readme-activity-graph) -->
-[![Aman's github activity graph](https://activity-graph.herokuapp.com/graph?username=AmanDhimanD&theme=react-dark)
+![Aman's github activity graph](https://activity-graph.herokuapp.com/graph?username=AmanDhimanD&theme=react-dark)
 
 
 
