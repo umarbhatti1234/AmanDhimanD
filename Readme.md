@@ -2,8 +2,9 @@
 <p align="center">
   <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="160"/>
 </p>
-
+<p align="center">
 ## [My Portfolio 😋👑](https://portfolio-new-fwfu.vercel.app)
+</p>
 
 <!-- ![Profile View](https://gpvc.arturio.dev/AmanDhimanD) -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AmanDhimanD" alt="AmanDhimanD" /> </p>
