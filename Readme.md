@@ -2,11 +2,11 @@
 <p align="center">
   <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="160"/>
 </p>
-<p align="center">
+<h2 align="center" >
  <a href="https://portfolio-new-fwfu.vercel.app">
   My Portfolio 😋👑
 </a>
-</p>
+</h2>
 
 <!-- ![Profile View](https://gpvc.arturio.dev/AmanDhimanD) -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AmanDhimanD" alt="AmanDhimanD" /> </p>
