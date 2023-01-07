@@ -3,7 +3,7 @@
   <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="160"/>
 </p>
 <h2 align="center" >
- <a href="https://portfolio-new-fwfu.vercel.app" target="_blank>
+ <a href="https://portfolio-new-fwfu.vercel.app" target="_blank">
   My Portfolio 😋👑
 </a>
 </h2>
