@@ -3,7 +3,9 @@
   <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="160"/>
 </p>
 <br/>
-#### [Portfolio](https://portfolio-new-fwfu.vercel.app/)
+
+# [Portfolio](https://portfolio-new-fwfu.vercel.app)
+
 <!-- ![Profile View](https://gpvc.arturio.dev/AmanDhimanD) -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AmanDhimanD" alt="AmanDhimanD" /> </p>
 <a href="https://www.linkedin.com/in/aman-dhiman-9336b91ba">
