@@ -3,7 +3,9 @@
   <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="160"/>
 </p>
 <p align="center">
-## [My Portfolio 😋👑](https://portfolio-new-fwfu.vercel.app)
+ <a href="https://portfolio-new-fwfu.vercel.app">
+  My Portfolio 😋👑
+</a>
 </p>
 
 <!-- ![Profile View](https://gpvc.arturio.dev/AmanDhimanD) -->
