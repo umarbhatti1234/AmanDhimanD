@@ -2,7 +2,6 @@
 <p align="center">
   <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="160"/>
 </p>
-<br/>
 
 ## [My Portfolio 😋👑](https://portfolio-new-fwfu.vercel.app)
 
